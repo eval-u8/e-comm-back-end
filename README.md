@@ -18,7 +18,7 @@ You are able to view all contents of the user's tab, categories and products dat
 
 ## Preview 👀 
 
-[CLICK HERE for Live DEMO](https://www.youtube.com/watch?v=Xa6LbZVpcDA)
+[CLICK HERE for Walkthrough](https://youtu.be/Lwcd2Y_CiBw)
 
 
 
